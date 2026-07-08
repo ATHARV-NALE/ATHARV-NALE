@@ -84,10 +84,10 @@ My mission is to create robots that don't just follow scripts, but perceive, und
 Are you looking for a freelancer, contractor, or full-time robotics software engineer to solve tough hardware-software challenges? Let’s connect!
 
 <div align="left">
-  <a href="mailto:atharvanale.work@gmail.com">
+  <a href="mailto:atharvanale26@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-atharvanale.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
