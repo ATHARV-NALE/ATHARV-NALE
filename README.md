@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00F2FE&100:4FACFE&height=220&section=header&text=Hi,%20I'm%20Atharv%20Nale%20👋&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="images/header.png" width="100%" alt="Atharv Nale Banner" />
   
   <h3>🚀 Embedded Systems | AI | Robotics Engineer</h3>
   <p>Bridging the Gap Between Bare-Metal Hardware and AI-Driven Autonomy</p>
