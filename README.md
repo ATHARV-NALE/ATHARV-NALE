@@ -49,10 +49,21 @@ My mission is to create robots that don't just follow scripts, but perceive, und
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58220?style=for-the-badge&logo=gazebo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+### 🧠 AI & Machine Learning (AI Stack)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ### 🔌 Embedded & Hardware
 ![STM32](https://img.shields.io/badge/STM32-032357?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 🛠️ Development & Robotics Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -70,12 +81,12 @@ My mission is to create robots that don't just follow scripts, but perceive, und
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-NALE&show_icons=true&theme=tokyonight&count_private=true" alt="Atharv's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATHARV-NALE&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ATHARV-NALE&show_icons=true&theme=tokyonight&count_private=true" alt="Atharv's GitHub Stats" height="190px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ATHARV-NALE&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ATHARV-NALE&theme=tokyonight&margin-w=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=ATHARV-NALE&theme=tokyonight&margin-w=15&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -85,7 +96,7 @@ Are you looking for a freelancer, contractor, or full-time robotics software eng
 
 <div align="left">
   <a href="mailto:atharvanale26@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-atharvanale.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-atharvanale26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
