@@ -78,15 +78,14 @@ My mission is to create robots that don't just follow scripts, but perceive, und
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ATHARV-NALE&show_icons=true&theme=tokyonight&count_private=true" alt="Atharv's GitHub Stats" height="190px" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ATHARV-NALE&layout=compact&theme=tokyonight" alt="Top Languages" height="190px" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=ATHARV-NALE&theme=tokyonight&margin-w=15&column=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ATHARV-NALE/ATHARV-NALE/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ATHARV-NALE/ATHARV-NALE/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ATHARV-NALE/ATHARV-NALE/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
