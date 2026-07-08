@@ -1,7 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="images/header.png" width="100%" alt="Atharv Nale Banner" />
-  
+  <h1>Hi, I'm Atharv Nale 👋</h1>
   <h3>🚀 Embedded Systems | AI | Robotics Engineer</h3>
   <p>Bridging the Gap Between Bare-Metal Hardware and AI-Driven Autonomy</p>
 
