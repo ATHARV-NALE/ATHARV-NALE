@@ -7,6 +7,7 @@
 
   <!-- Professional Status Badges -->
   <p>
+    <a href="https://atharv-nale.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-4FACFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:atharvanale.work@gmail.com"><img src="https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge&logo=Freelancer" alt="Freelance Available" /></a>
     <a href="mailto:atharvanale.work@gmail.com"><img src="https://img.shields.io/badge/Open_to-Full--Time_&_Contracts-blue?style=for-the-badge&logo=github" alt="Open to Work" /></a>
   </p>
@@ -94,6 +95,9 @@ My mission is to create robots that don't just follow scripts, but perceive, und
 Are you looking for a freelancer, contractor, or full-time robotics software engineer to solve tough hardware-software challenges? Let’s connect!
 
 <div align="left">
+  <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-4FACFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:atharvanale26@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-atharvanale26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
