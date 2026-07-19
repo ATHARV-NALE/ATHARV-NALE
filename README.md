@@ -7,20 +7,18 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ATHARV-NALE&label=Profile%20Views&color=f77f00&style=for-the-badge" alt="Profile Views" />
-
 <p><i>I design and build end-to-end intelligent physical systems — from bare-metal firmware to AI-driven robotic autonomy.</i></p>
 
 <!-- Professional Status Badges -->
 <p>
   <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-4FACFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Portfolio" />
   </a>
   <a href="mailto:atharvanale.work@gmail.com">
-    <img src="https://img.shields.io/badge/Freelance-Available-2EA44F?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance Available" />
+    <img src="https://img.shields.io/badge/Freelance-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Freelance Available" />
   </a>
-  <a href="mailto:atharvanale.work@gmail.com">
-    <img src="https://img.shields.io/badge/Open_to-Full--Time_%26_Contracts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
+  <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
   </a>
 </p>
 
@@ -152,15 +150,6 @@ I work across the entire robotics stack — from **microcontrollers & firmware (
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATHARV-NALE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATHARV-NALE&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -180,7 +169,7 @@ Looking for a freelancer, contractor, or full-time robotics software engineer wh
 <div align="center">
 
 <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-4FACFE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Portfolio" />
 </a>
 <a href="mailto:atharvanale.work@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
