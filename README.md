@@ -11,15 +11,11 @@
 
 <!-- Professional Status Badges -->
 <p>
-  <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Portfolio&color=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkY3MTM5Ij48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptNi45MyA2SDE1LjVjLS40LTEuNjctLjk4LTMuMTYtMS43Mi00LjI5QTguMDMgOC4wMyAwIDAgMSAxOC45MyA4ek0xMiA0Yy44MyAxLjIgMS41NSAyLjgzIDIgNS41SDEwYy40NS0yLjY3IDEuMTctNC4zIDItNS41ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuOWMtLjEuNjYtLjE2IDEuMzItLjE2IDJzLjA2IDEuMzQuMTYgMkg0LjI2em0uODEgMmgzLjQzYy40IDEuNjcuOTggMy4xNiAxLjcyIDQuMjlBOC4wMyA4LjAzIDAgMCAxIDUuMDcgMTZ6bTMuNDMtOEg1LjA3YTguMDMgOC4wMyAwIDAgMSA1LjE1LTQuMjlDOS40OCA0Ljg0IDguOSA2LjMzIDguNSA4ek0xMiAyMGMtLjgzLTEuMi0xLjU1LTIuODMtMi01LjVoNGMtLjQ1IDIuNjctMS4xNyA0LjMtMiA1LjV6bTIuMjgtNy41SDkuNzJjLS4xMS0uNjQtLjE4LTEuMy0uMTgtMnMuMDctMS4zNi4xOC0yaDQuNTZjLjExLjY0LjE4IDEuMy4xOCAycy0uMDcgMS4zNi0uMTggMnptLjE1IDcuMjFjLjc0LTEuMTMgMS4zMi0yLjYyIDEuNzItNC4yOWgzLjQzYTguMDMgOC4wMyAwIDAgMS01LjE1IDQuMjl6TTE1Ljg0IDE0Yy4xLS42Ni4xNi0xLjMyLjE2LTJzLS4wNi0xLjM0LS4xNi0yaDMuOWMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjl6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Portfolio" />
-  </a>
-  <a href="mailto:atharvanale.work@gmail.com">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=Freelance&message=Available&color=1DBF73&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMTAgMmEyIDIgMCAwIDAtMiAydjFINGEyIDIgMCAwIDAtMiAydjNoMjBWN2EyIDIgMCAwIDAtMi0yaC00VjRhMiAyIDAgMCAwLTItMmgtNHptMCAyaDR2MWgtNFY0ek0yIDExdjdhMiAyIDAgMCAwIDIgMmgxNmEyIDIgMCAwIDAgMi0ydi03SDJ6bTggMmg0djJoLTR2LTJ6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Freelance Available" />
-  </a>
-  <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Open+to+Work&color=0A66C2&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJNMjAuNDUgMjAuNDVoLTMuNTV2LTUuNTdjMC0xLjMzLS4wMi0zLjA0LTEuODUtMy4wNC0xLjg1IDAtMi4xNCAxLjQ1LTIuMTQgMi45NHY1LjY3SDkuMzZWOWgzLjQxdjEuNTZoLjA1Yy40OC0uOSAxLjY0LTEuODUgMy4zOC0xLjg1IDMuNjEgMCA0LjI4IDIuMzggNC4yOCA1LjQ3djYuMjd6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Open to Work" />
-  </a>
+  <a href="https://atharv-nale.github.io/Portfolio/" target="_blank"><b>🌐 Portfolio</b></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:atharvanale.work@gmail.com"><b>💼 Freelance Available</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank"><b>🟢 Open to Work</b></a>
 </p>
 
 </div>
@@ -168,15 +164,11 @@ Looking for a freelancer, contractor, or full-time robotics software engineer wh
 
 <div align="center">
 
-<a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Portfolio&color=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkY3MTM5Ij48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptNi45MyA2SDE1LjVjLS40LTEuNjctLjk4LTMuMTYtMS43Mi00LjI5QTguMDMgOC4wMyAwIDAgMSAxOC45MyA4ek0xMiA0Yy44MyAxLjIgMS41NSAyLjgzIDIgNS41SDEwYy40NS0yLjY3IDEuMTctNC4zIDItNS41ek00LjI2IDE0QzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuOWMtLjEuNjYtLjE2IDEuMzItLjE2IDJzLjA2IDEuMzQuMTYgMkg0LjI2em0uODEgMmgzLjQzYy40IDEuNjcuOTggMy4xNiAxLjcyIDQuMjlBOC4wMyA4LjAzIDAgMCAxIDUuMDcgMTZ6bTMuNDMtOEg1LjA3YTguMDMgOC4wMyAwIDAgMSA1LjE1LTQuMjlDOS40OCA0Ljg0IDguOSA2LjMzIDguNSA4ek0xMiAyMGMtLjgzLTEuMi0xLjU1LTIuODMtMi01LjVoNGMtLjQ1IDIuNjctMS4xNyA0LjMtMiA1LjV6bTIuMjgtNy41SDkuNzJjLS4xMS0uNjQtLjE4LTEuMy0uMTgtMnMuMDctMS4zNi4xOC0yaDQuNTZjLjExLjY0LjE4IDEuMy4xOCAycy0uMDcgMS4zNi0uMTggMnptLjE1IDcuMjFjLjc0LTEuMTMgMS4zMi0yLjYyIDEuNzItNC4yOWgzLjQzYTguMDMgOC4wMyAwIDAgMS01LjE1IDQuMjl6TTE1Ljg0IDE0Yy4xLS42Ni4xNi0xLjMyLjE2LTJzLS4wNi0xLjM0LS4xNi0yaDMuOWMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjl6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Portfolio" />
-</a>
-<a href="mailto:atharvanale.work@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://atharv-nale.github.io/Portfolio/" target="_blank"><b>🌐 Portfolio</b></a>
+&nbsp;•&nbsp;
+<a href="mailto:atharvanale.work@gmail.com"><b>📧 Email Me</b></a>
+&nbsp;•&nbsp;
+<a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank"><b>🔗 LinkedIn</b></a>
 
 </div>
 
