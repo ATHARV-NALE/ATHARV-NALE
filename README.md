@@ -12,13 +12,13 @@
 <!-- Professional Status Badges -->
 <p>
   <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Portfolio" />
+    < alt="Portfolio" />
   </a>
-  <a href="mailto:atharvanale.work@gmail.com">
-    <img src="https://img.shields.io/badge/Freelance-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Freelance Available" />
+  <a href="mailto:atharvanale26@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Freelance Available" />
   </a>
   <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
+    <img src= '[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" alt="Open to Work" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@ I work across the entire robotics stack — from **microcontrollers & firmware (
 <p>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
-<img src="https://img.shields.io/badge/Gazebo-F58220?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+<img src="https://gazebosim.org/assets/images/gazebo_horz_pos_topbar.svg" alt="Gazebo" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
@@ -171,11 +171,11 @@ Looking for a freelancer, contractor, or full-time robotics software engineer wh
 <a href="https://atharv-nale.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" alt="Portfolio" />
 </a>
-<a href="mailto:atharvanale.work@gmail.com">
+<a href="mailto:atharvanale26@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)" alt="LinkedIn />
 </a>
 
 </div>
