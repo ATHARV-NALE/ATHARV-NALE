@@ -169,7 +169,7 @@ Looking for a freelancer, contractor, or full-time robotics software engineer wh
 <a href="mailto:atharvanale.work@gmail.com"><b>📧 Email Me</b></a>
 &nbsp;•&nbsp;
 <a href="https://linkedin.com/in/atharva-nale-68b63b250/" target="_blank"><b>🔗 LinkedIn</b></a>
-
+ 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
